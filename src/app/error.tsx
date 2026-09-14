@@ -71,7 +71,7 @@ export default function Error({
                 </motion.div>
 
                 <p className="mt-12 text-gray-400 text-xs font-bold uppercase tracking-widest">
-                    If this persists, please contact our support at support@tummytikki.com
+                    If this persists, please contact our support at support@thepattyhouse.com
                 </p>
             </div>
         </div>

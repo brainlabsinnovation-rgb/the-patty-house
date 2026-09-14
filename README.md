@@ -1,8 +1,8 @@
-# Tummy Tikki Burger - 24/7 Budget Burger Joint Website
+# The Patty House - 24/7 Budget Burger Joint Website
 
-A vibrant, youth-focused website for Tummy Tikki Burger - Ahmedabad's most loved 24/7 tikki burger destination serving homemade patties since 2018.
+A vibrant, youth-focused website for The Patty House - Ahmedabad's most loved 24/7 tikki burger destination serving homemade patties since 2018.
 
-## 🍔 About Tummy Tikki Burger
+## 🍔 About The Patty House
 
 - **Rating:** 4.8 stars (1,416+ reviews)
 - **Specialty:** Homemade tikki patties (never frozen)
@@ -34,7 +34,7 @@ A vibrant, youth-focused website for Tummy Tikki Burger - Ahmedabad's most loved
 ## 📱 Sections
 
 1. **Hero Section** - Bold design with 24/7 badge, ratings, and CTAs
-2. **Why Tummy Tikki** - 4-card feature grid
+2. **Why The Patty House** - 4-card feature grid
 3. **Menu** - Categorized items with pricing
 4. **24/7 Availability** - Special section highlighting 24-hour service
 5. **Combo Deals** - Student specials and value packs
@@ -80,7 +80,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **Zomato:** Order directly through Zomato
 - **WhatsApp:** Quick order via WhatsApp
 - **Phone:** Direct call for pickup/delivery
-- **Instagram:** @tummy_tikki_burger
+- **Instagram:** @the_patty_house
 
 ## 🌐 Deployment
 
@@ -90,7 +90,7 @@ The easiest way to deploy is using the [Vercel Platform](https://vercel.com/new?
 
 - **Phone:** +91 99980 60483
 - **WhatsApp:** +91 99980 60483
-- **Email:** info@tummytikkiburger.com
+- **Email:** info@thepattyhouse.com
 - **Address:** Usmanpura, Ahmedabad, Gujarat 380013
 
 ---

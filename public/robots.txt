@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tummy-tikki-burger.vercel.app/sitemap.xml
+Sitemap: https://the-patty-house.vercel.app/sitemap.xml

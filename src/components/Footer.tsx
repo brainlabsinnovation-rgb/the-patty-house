@@ -18,7 +18,7 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <span className="text-3xl">🍔</span>
               <div>
-                <h3 className="text-xl font-bold">Tummy Tikki Burger</h3>
+                <h3 className="text-xl font-bold">The Patty House</h3>
                 <p className="text-sm text-gray-400">Since 2018</p>
               </div>
             </div>
@@ -56,14 +56,14 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://www.swiggy.com/restaurants/tummy-tikki-burger-usmanpura-ahmedabad" 
+                <a href="https://www.swiggy.com/restaurants/the-patty-house-usmanpura-ahmedabad" 
                    target="_blank" rel="noopener noreferrer"
                    className="text-gray-400 hover:text-orange-500 transition-colors">
                   🟠 Order on Swiggy
                 </a>
               </li>
               <li>
-                <a href="https://www.zomato.com/ahmedabad/tummy-tikki-burger-usmanpura" 
+                <a href="https://www.zomato.com/ahmedabad/the-patty-house-usmanpura" 
                    target="_blank" rel="noopener noreferrer"
                    className="text-gray-400 hover:text-orange-500 transition-colors">
                   🔴 Order on Zomato
@@ -99,8 +99,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-orange-500" />
-                <a href="mailto:info@tummytikkiburger.com" className="text-gray-400 hover:text-orange-500 transition-colors">
-                  info@tummytikkiburger.com
+                <a href="mailto:info@thepattyhouse.com" className="text-gray-400 hover:text-orange-500 transition-colors">
+                  info@thepattyhouse.com
                 </a>
               </div>
             </div>
@@ -116,16 +116,16 @@ export default function Footer() {
             <h4 className="text-lg font-bold mb-4">Follow Us</h4>
             <div className="space-y-3">
               <a
-                href="https://www.instagram.com/tummy_tikki_burger"
+                href="https://www.instagram.com/the_patty_house"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-2 rounded-full hover:shadow-lg transition-all duration-300 transform hover:scale-105"
               >
                 <Instagram className="w-5 h-5" />
-                <span className="font-semibold">@tummy_tikki_burger</span>
+                <span className="font-semibold">@the_patty_house</span>
               </a>
               <a
-                href="https://www.facebook.com/tummytikkiburger"
+                href="https://www.facebook.com/thepattyhouse"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-blue-600 text-white px-4 py-2 rounded-full hover:shadow-lg transition-all duration-300 transform hover:scale-105"
@@ -154,7 +154,7 @@ export default function Footer() {
           viewport={{ once: true }}
         >
           <p className="text-gray-400 mb-2">
-            © 2024 Tummy Tikki Burger. All rights reserved.
+            © 2024 The Patty House. All rights reserved.
           </p>
           <p className="text-sm text-gray-500">
             Made with ❤️ in Ahmedabad | Serving happiness 24/7 since 2018

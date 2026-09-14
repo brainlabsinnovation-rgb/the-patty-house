@@ -86,14 +86,14 @@ export default function Hero() {
             <Button
               size="lg"
               className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 text-lg font-bold rounded-full shadow-lg transform hover:scale-105 transition-all duration-200"
-              onClick={() => window.open('https://www.swiggy.com/restaurants/tummy-tikki-burger-usmanpura-ahmedabad', '_blank')}
+              onClick={() => window.open('https://www.swiggy.com/restaurants/the-patty-house-usmanpura-ahmedabad', '_blank')}
             >
               <span className="text-xl">🟠</span> Order on Swiggy
             </Button>
             <Button
               size="lg"
               className="bg-red-500 hover:bg-red-600 text-white px-8 py-4 text-lg font-bold rounded-full shadow-lg transform hover:scale-105 transition-all duration-200"
-              onClick={() => window.open('https://www.zomato.com/ahmedabad/tummy-tikki-burger-usmanpura', '_blank')}
+              onClick={() => window.open('https://www.zomato.com/ahmedabad/the-patty-house-usmanpura', '_blank')}
             >
               <span className="text-xl">🔴</span> Order on Zomato
             </Button>

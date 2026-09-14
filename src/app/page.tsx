@@ -1,6 +1,6 @@
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
-import WhyTummyTikki from '@/components/WhyTummyTikki';
+import WhyThePattyHouse from '@/components/WhyThePattyHouse';
 import MenuGrid from '@/components/MenuGrid';
 import Availability24x7 from '@/components/Availability24x7';
 import ComboDeals from '@/components/ComboDeals';
@@ -17,7 +17,7 @@ export default function Home() {
       <Navbar />
       <main>
         <Hero />
-        <WhyTummyTikki />
+        <WhyThePattyHouse />
         <MenuGrid />
         <Availability24x7 />
         <ComboDeals />

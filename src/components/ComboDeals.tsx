@@ -145,7 +145,7 @@ export default function ComboDeals() {
               🎉 Limited Time Offer: Extra 10% Off on All Combos!
             </h3>
             <p className="text-lg mb-4">
-              Use code: <span className="bg-white text-orange-500 px-3 py-1 rounded font-bold">TUMMY10</span>
+              Use code: <span className="bg-white text-orange-500 px-3 py-1 rounded font-bold">PATTY10</span>
             </p>
             <p className="text-sm opacity-90">
               Valid on all orders above Rs 200. Available 24/7!

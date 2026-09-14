@@ -33,7 +33,7 @@ export default function Location() {
           >
             <div className="aspect-w-16 aspect-h-12">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.1234567890!2d72.5947!3d23.0528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sTummy%20Tikki%20Burger!5e0!3m2!1sen!2sin!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.1234567890!2d72.5947!3d23.0528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sThe%20Patty%20House!5e0!3m2!1sen!2sin!4v1234567890"
                 width="100%"
                 height="400"
                 style={{ border: 0 }}
@@ -41,7 +41,7 @@ export default function Location() {
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="w-full h-96 lg:h-full min-h-[400px]"
-                title="Tummy Tikki Burger Location Map"
+                title="The Patty House Location Map"
               />
             </div>
           </motion.div>
@@ -70,7 +70,7 @@ export default function Location() {
                   </p>
                   <div className="mt-3">
                     <a
-                      href="https://maps.google.com/?q=Tummy+Tikki+Burger+Usmanpura+Ahmedabad"
+                      href="https://maps.google.com/?q=The+Patty+House+Usmanpura+Ahmedabad"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-orange-500 hover:text-orange-600 font-semibold inline-flex items-center gap-1"
@@ -182,7 +182,7 @@ export default function Location() {
               📞 Call for Pickup
             </a>
             <a
-              href="https://www.swiggy.com/restaurants/tummy-tikki-burger-usmanpura-ahmedabad"
+              href="https://www.swiggy.com/restaurants/the-patty-house-usmanpura-ahmedabad"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-orange-500 hover:bg-gray-100 px-6 py-3 rounded-full font-bold transition-colors"
@@ -190,7 +190,7 @@ export default function Location() {
               🚚 Order Delivery
             </a>
             <a
-              href="https://maps.google.com/?q=Tummy+Tikki+Burger+Usmanpura+Ahmedabad"
+              href="https://maps.google.com/?q=The+Patty+House+Usmanpura+Ahmedabad"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-orange-500 hover:bg-gray-100 px-6 py-3 rounded-full font-bold transition-colors"

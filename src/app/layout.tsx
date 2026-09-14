@@ -16,8 +16,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Tummy Tikki Burger - Best 24/7 Budget Burgers Ahmedabad | Rs 89",
-  description: "Open 24 hours! Craving burgers at midnight? Tummy Tikki Burger serves homemade tikki burgers 24/7 in Ahmedabad. Starting Rs 89. Order on Swiggy or Zomato now!",
+  title: "The Patty House - Best 24/7 Budget Burgers Ahmedabad | Rs 89",
+  description: "Open 24 hours! Craving burgers at midnight? The Patty House serves homemade tikki burgers 24/7 in Ahmedabad. Starting Rs 89. Order on Swiggy or Zomato now!",
   keywords: "24 hour burger ahmedabad, late night food, budget burgers, tikki burger, midnight food delivery",
 };
 

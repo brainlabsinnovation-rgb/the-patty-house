@@ -68,7 +68,7 @@ export default async function AdminDashboard() {
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 mb-10">
             <div>
               <h1 className="text-4xl font-extrabold text-gray-900 tracking-tight">Admin Dashboard</h1>
-              <p className="text-gray-500 mt-2 text-lg">Real-time overview of Tummy Tikki Burger</p>
+              <p className="text-gray-500 mt-2 text-lg">Real-time overview of The Patty House</p>
             </div>
             <div className="flex items-center gap-4">
               <Link

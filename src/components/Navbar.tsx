@@ -23,7 +23,7 @@ export default function Navbar() {
           >
             <span className="text-2xl md:text-3xl">🍔</span>
             <div>
-              <h1 className="text-lg md:text-xl font-bold text-gray-900">Tummy Tikki Burger</h1>
+              <h1 className="text-lg md:text-xl font-bold text-gray-900">The Patty House</h1>
               <p className="text-xs text-gray-600">Since 2018</p>
             </div>
           </motion.div>

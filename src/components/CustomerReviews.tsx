@@ -22,7 +22,7 @@ export default function CustomerReviews() {
     {
       name: "Amit Kumar",
       rating: 5,
-      review: "Craving burgers at 3 AM? Tummy Tikki Burger has your back! Quick delivery even at odd hours. Quality never compromises!",
+      review: "Craving burgers at 3 AM? The Patty House has your back! Quick delivery even at odd hours. Quality never compromises!",
       time: "3 weeks ago",
       emoji: "🌙"
     },
@@ -36,7 +36,7 @@ export default function CustomerReviews() {
     {
       name: "Karan Mehta",
       rating: 5,
-      review: "The cheesy tummy tikki burger is my go-to comfort food! Great taste, reasonable prices, and they're always open. What more could you ask for?",
+      review: "The cheesy patty house burger is my go-to comfort food! Great taste, reasonable prices, and they're always open. What more could you ask for?",
       time: "1 week ago",
       emoji: "🍔"
     }
@@ -137,7 +137,7 @@ export default function CustomerReviews() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://www.swiggy.com/restaurants/tummy-tikki-burger-usmanpura-ahmedabad"
+                href="https://www.swiggy.com/restaurants/the-patty-house-usmanpura-ahmedabad"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white text-green-600 hover:bg-gray-100 px-6 py-3 rounded-full font-bold transition-colors"
@@ -145,7 +145,7 @@ export default function CustomerReviews() {
                 Order on Swiggy
               </a>
               <a
-                href="https://www.zomato.com/ahmedabad/tummy-tikki-burger-usmanpura"
+                href="https://www.zomato.com/ahmedabad/the-patty-house-usmanpura"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white text-green-600 hover:bg-gray-100 px-6 py-3 rounded-full font-bold transition-colors"

@@ -39,7 +39,7 @@ export default function MenuGrid() {
     burger: [
       {
         id: 'regular-burger',
-        name: 'Regular Tummy Tikki Burger',
+        name: 'Regular Patty House Burger',
         description: 'Our signature homemade tikki burger with fresh veggies',
         price: 89,
         categoryId: 'cat_burger',
@@ -50,7 +50,7 @@ export default function MenuGrid() {
       },
       {
         id: 'cheesy-burger',
-        name: 'Cheesy Tummy Tikki Burger',
+        name: 'Cheesy Patty House Burger',
         description: 'Loaded with cheese for cheese lovers',
         price: 109,
         categoryId: 'cat_burger',

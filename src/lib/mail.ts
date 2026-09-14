@@ -23,14 +23,14 @@ export async function sendOrderConfirmation(order: any) {
         : 'Order details attached';
 
     const mailOptions = {
-        from: `"Tummy Tikki Burger" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
+        from: `"The Patty House" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
         to: order.deliveryEmail,
         subject: `Order Confirmed! Burger #${order.orderNumber} is on its way! 🍔`,
         html: `
             <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; border: 1px solid #eee; border-radius: 20px; overflow: hidden;">
                 <div style="background-color: #FF5722; padding: 40px; text-align: center; color: white;">
                     <h1 style="margin: 0; font-size: 32px;">Order Confirmed!</h1>
-                    <p style="font-size: 18px; opacity: 0.9;">Thank you for ordering from Tummy Tikki Burger.</p>
+                    <p style="font-size: 18px; opacity: 0.9;">Thank you for ordering from The Patty House.</p>
                 </div>
                 <div style="padding: 40px;">
                     <h2 style="color: #333;">Order #${order.orderNumber}</h2>
@@ -61,7 +61,7 @@ export async function sendOrderConfirmation(order: any) {
                     </div>
                 </div>
                 <div style="background-color: #f9f9f9; padding: 20px; text-align: center; color: #999; font-size: 12px;">
-                    <p>© 2026 Tummy Tikki Burger. All rights reserved.</p>
+                    <p>© 2026 The Patty House. All rights reserved.</p>
                 </div>
             </div>
         `,

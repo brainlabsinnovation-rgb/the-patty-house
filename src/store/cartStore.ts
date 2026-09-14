@@ -149,7 +149,7 @@ export const useCartStore = create<CartStore>()(
       },
     }),
     {
-      name: 'tummy-tikki-cart',
+      name: 'the-patty-house-cart',
       version: CART_VERSION,
       migrate: (persistedState: any, version: number) => {
         if (version !== CART_VERSION) {

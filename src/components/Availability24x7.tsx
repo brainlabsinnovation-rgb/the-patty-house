@@ -46,7 +46,7 @@ export default function Availability24x7() {
             Always <span className="text-red-500">Open,</span> Always <span className="text-orange-500">Fresh!</span>
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">
-            No more waiting for restaurants to open! Tummy Tikki Burger serves delicious homemade tikki burgers 24 hours a day, 7 days a week. Your hunger doesn't check the clock, and neither do we!
+            No more waiting for restaurants to open! The Patty House serves delicious homemade tikki burgers 24 hours a day, 7 days a week. Your hunger doesn't check the clock, and neither do we!
           </p>
         </motion.div>
 

@@ -53,7 +53,7 @@ export default function AdminLogin() {
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-2 mb-4">
             <span className="text-3xl">🍔</span>
-            <h1 className="text-2xl font-bold text-gray-900">Tummy Tikki Burger</h1>
+            <h1 className="text-2xl font-bold text-gray-900">The Patty House</h1>
           </div>
           <h2 className="text-xl font-semibold text-gray-800">Admin Login</h2>
           <p className="text-gray-600 text-sm mt-1">Access your restaurant dashboard</p>
@@ -72,7 +72,7 @@ export default function AdminLogin() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="w-full pl-10 pr-3 py-3 bg-white border-2 border-gray-200 rounded-xl focus:outline-none focus:border-orange-500 focus:ring-4 focus:ring-orange-500/10 transition-all text-gray-900 placeholder:text-gray-400 font-medium"
-                placeholder="admin@tummytikki.com"
+                placeholder="admin@thepattyhouse.com"
                 required
               />
             </div>
@@ -121,7 +121,7 @@ export default function AdminLogin() {
         {/* Demo Credentials */}
         <div className="mt-6 p-4 bg-orange-50 rounded-lg">
           <p className="text-sm font-medium text-orange-900 mb-2">Demo Credentials:</p>
-          <p className="text-xs text-orange-700">Email: admin@tummytikki.com</p>
+          <p className="text-xs text-orange-700">Email: admin@thepattyhouse.com</p>
           <p className="text-xs text-orange-700">Password: admin123</p>
         </div>
 

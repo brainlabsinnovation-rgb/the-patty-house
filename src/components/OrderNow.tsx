@@ -36,7 +36,7 @@ export default function OrderNow() {
             </h3>
             <div className="space-y-4">
               <a
-                href="https://www.swiggy.com/restaurants/tummy-tikki-burger-usmanpura-ahmedabad"
+                href="https://www.swiggy.com/restaurants/the-patty-house-usmanpura-ahmedabad"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-orange-500 hover:bg-orange-600 text-white py-4 rounded-xl font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -47,7 +47,7 @@ export default function OrderNow() {
                 </span>
               </a>
               <a
-                href="https://www.zomato.com/ahmedabad/tummy-tikki-burger-usmanpura"
+                href="https://www.zomato.com/ahmedabad/the-patty-house-usmanpura"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-red-500 hover:bg-red-600 text-white py-4 rounded-xl font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg"

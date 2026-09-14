@@ -1,22 +1,22 @@
 services:
   postgres:
     image: postgres:16-alpine
-    container_name: tummy-tikki-db
+    container_name: the-patty-house-db
     restart: always
     ports:
       - '5432:5432'
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: tummytikki_orders
+      POSTGRES_DB: thepattyhouse_orders
     volumes:
       - postgres_data:/var/lib/postgresql/data
     networks:
-      - tummy-network
+      - the-patty-house-network
 
 volumes:
   postgres_data:
 
 networks:
-  tummy-network:
+  the-patty-house-network:
     driver: bridge

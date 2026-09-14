@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { ChefHat, Clock, DollarSign, Star } from 'lucide-react'
 
-export default function WhyTummyTikki() {
+export default function WhyThePattyHouse() {
   const features = [
     {
       icon: ChefHat,
@@ -46,7 +46,7 @@ export default function WhyTummyTikki() {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-            Why <span className="text-orange-500">Tummy Tikki</span>?
+            Why <span className="text-orange-500">The Patty House</span>?
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
             Discover what makes us Ahmedabad's favorite 24/7 burger destination
@@ -65,20 +65,20 @@ export default function WhyTummyTikki() {
               whileHover={{ y: -5 }}
             >
               <div className={`absolute inset-0 bg-gradient-to-r ${feature.color} rounded-2xl opacity-0 group-hover:opacity-10 transition-opacity duration-300`} />
-              
+
               <div className="relative bg-white border-2 border-gray-100 rounded-2xl p-6 hover:shadow-xl transition-all duration-300">
                 <div className={`inline-flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-r ${feature.color} mb-4`}>
                   <span className="text-2xl">{feature.emoji}</span>
                 </div>
-                
+
                 <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-3">
                   {feature.title}
                 </h3>
-                
+
                 <p className="text-gray-600 leading-relaxed">
                   {feature.description}
                 </p>
-                
+
                 <div className="mt-4 flex items-center text-orange-500 font-semibold group-hover:text-orange-600 transition-colors">
                   <span className="text-sm">Learn More</span>
                   <svg className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">

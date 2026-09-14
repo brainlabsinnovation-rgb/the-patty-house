@@ -159,7 +159,7 @@ export default function Checkout() {
         key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
         amount: Math.round(grandTotal * 100),
         currency: 'INR',
-        name: 'Tummy Tikki Burger',
+        name: 'The Patty House',
         description: `Order #${order.orderNumber}`,
         order_id: razorpayOrderId,
         handler: async function (response: any) {
